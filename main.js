@@ -104,7 +104,7 @@ if(keyPressed == "67"){
     console.log("c key pressed");
     new_img("cloud.jpg");
 }
-    if(keyPressed == "80){
+    if(keyPressed == "80"){
     console.log("p key pressed");
     new_img("pig.png");
 }
