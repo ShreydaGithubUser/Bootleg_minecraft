@@ -104,6 +104,10 @@ if(keyPressed == "67"){
     console.log("c key pressed");
     new_img("cloud.jpg");
 }
+    if(keyPressed == "112"){
+    console.log("p key pressed");
+    new_img("pig.png");
+}
 }
 
 function up(){
