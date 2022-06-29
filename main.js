@@ -96,18 +96,15 @@ if(keyPressed == "68"){
     console.log("d key pressed");
     new_img("dark_green.png");
 }
-if(keyPressed == "85"){
+if(keyPressed == "80"){
     console.log("u key pressed");
-    new_img("unique.png");
+    new_img("pig.png");
 }
 if(keyPressed == "67"){
     console.log("c key pressed");
     new_img("cloud.jpg");
 }
-    if(keyPressed == "80){
-    console.log("p key pressed");
-    new_img("pig.png");
-}
+
 }
 
 function up(){
